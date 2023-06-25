@@ -1,0 +1,12 @@
+
+Temp/*
+Library/*
+iOS/*
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+obj/*
+.DS_Store
+Logs/*
+toriki.sln
+
+Assets/Resources.meta
